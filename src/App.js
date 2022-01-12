@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <Header>
-        <img src={logo} height={200} />
+        <img src={logo} height={150} />
         <Text>is coming soon...</Text>
       </Header>
     </div>
