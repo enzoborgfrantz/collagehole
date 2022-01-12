@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.caee7168.css",
-    "main.js": "/static/js/main.66427443.js",
+    "main.js": "/static/js/main.fab9ff4c.js",
     "static/js/787.559d643d.chunk.js": "/static/js/787.559d643d.chunk.js",
     "static/media/collagehole_logo.png": "/static/media/collagehole_logo.93d35c320f850cb1864c.png",
     "index.html": "/index.html",
     "main.caee7168.css.map": "/static/css/main.caee7168.css.map",
-    "main.66427443.js.map": "/static/js/main.66427443.js.map",
+    "main.fab9ff4c.js.map": "/static/js/main.fab9ff4c.js.map",
     "787.559d643d.chunk.js.map": "/static/js/787.559d643d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.caee7168.css",
-    "static/js/main.66427443.js"
+    "static/js/main.fab9ff4c.js"
   ]
 }
